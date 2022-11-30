@@ -1,5 +1,5 @@
 # Social-Networking-App
-A complete frontend/backend app that uses firebase as database and phone authentication. App allows users to upload stories and do live Video calls. Data types of text, image, video, GIF and audio can be stored in the database. 
+A complete frontend/backend flutter app that uses firebase as database and phone authentication. App allows users to upload stories and do live Video calls. Data types of text, image, video, GIF and audio can be stored in the database. 
 
 # Screenshots:
 <img width="500" alt="Screen Shot 2022-11-30 at 2 18 04 AM" src="https://user-images.githubusercontent.com/111835151/204735685-994e5dfa-6259-48c5-a420-737de51493e2.png">
